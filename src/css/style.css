@@ -1,0 +1,23 @@
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+.checkBtn {
+    display: block;
+    width: 175px;
+    height: 30px;
+    background: lightblue;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+.error {
+    display: inline;
+    color: red;
+    margin: 0 10px;
+}
+
+.errorBorder {
+    border: 2px solid red;
+}
